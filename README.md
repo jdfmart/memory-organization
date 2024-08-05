@@ -4,14 +4,14 @@ If you study memory, you probably use free-recall tasks and analyze participant 
 
 ## Clustering in Recall Calculator
 
-**Code:** [https://github.com/jdfmart/memory-organization/blob/main/clusters.R](https://github.com/jdfmart/memory-organization/blob/main/clusters.R)  
+**Code:** [R script](https://github.com/jdfmart/memory-organization/blob/main/clusters.R)  
 **Web App:** [Clustering in Recall Index Calculator](https://jdmart.shinyapps.io/clusters_app/)
 
 This tool calculates four different indexes of clustering in free recall (ARC, RR, MRR, DS) for an entire dataset, which should be coded according to categories (based on Otani and Senkova, 2012). Visit the web app or refer to the comments in the code for instructions on usage and references to relevant papers.
 
 ## Pairwise Analysis
 
-**Code:** [https://github.com/jdfmart/memory-organization/blob/main/pairs.R]https://github.com/jdfmart/memory-organization/blob/main/pairs.R)  
+**Code:** [R script](https://github.com/jdfmart/memory-organization/blob/main/pairs.R)  
 **Web App:** [Recalled pairs calculator](https://jdmart.shinyapps.io/pairs_calculator/)
 
 This tool counts how often each possible pair exists in a sequence of multiple categories. For example, if your to-be-recalled items belong to three categories (coded as 1, 2, and 3), this app counts, per participant, how often all possible pairs (11, 12, 13, 21, 22, 23, 31, etc.) occur. Visit the web app or check the comments in the code for instructions on usage.
