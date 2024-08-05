@@ -5,7 +5,7 @@ If you study memory, you probably use free-recall tasks and analyze participant 
 ## Clustering in Recall Calculator
 
 **Code:** [https://github.com/jdfmart/memory-organization/blob/main/clusters.R](https://github.com/jdfmart/memory-organization/blob/main/clusters.R)  
-**Web App:** [Clustering in Recall Index Calculator](https://jdmart.shinyapps.io/clustering_in_recall_index_calculator/)
+**Web App:** [Clustering in Recall Index Calculator](https://jdmart.shinyapps.io/clusters_app/)
 
 This tool calculates four different indexes of clustering in free recall (ARC, RR, MRR, DS) for an entire dataset, which should be coded according to categories (based on Otani and Senkova, 2012). Visit the web app or refer to the comments in the code for instructions on usage and references to relevant papers.
 
