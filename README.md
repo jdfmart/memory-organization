@@ -19,3 +19,4 @@ This tool counts how often each possible pair exists in a sequence of multiple c
 ## Getting in Touch
 
 Feel free to reach out with suggestions or corrections to the code.
+joaodavidmartins [at] gmail . com
